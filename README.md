@@ -1,6 +1,10 @@
 terraform-ubuntu-ami
 ====================
 
+*THIS MODULE IS DEPRECATED*
+
+Please see: https://github.com/terraform-community-modules/tf_aws_ubuntu_ami
+
 Terraform module to get the current set of publicly available ubuntu AMIs.
 
 This module grabs all of the AMIs listed at:
